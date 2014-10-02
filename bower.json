@@ -39,5 +39,10 @@
     },
     "main": [
       "jquery.newsTicker.js"
+    ],
+    "ignore": [
+      "assets",
+      "index.html",
+      "jquery.newsTicker.min.js"
     ]
 }
