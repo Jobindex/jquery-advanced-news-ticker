@@ -36,5 +36,8 @@
     },
     "dependencies": {
         "jquery": ">=1.5"
-    }
+    },
+    "main": [
+      "jquery.newsTicker.js"
+    ]
 }
